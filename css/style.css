@@ -1,0 +1,21 @@
+.menu-btn{
+	background-color: gray;
+	color: white;
+	font-size: 20px;
+	-webkit-box-shadow: 0px 2px 19px 0px rgba(50, 50, 50, 0.88);
+	-moz-box-shadow:    0px 2px 19px 0px rgba(50, 50, 50, 0.88);
+	box-shadow:         0px 2px 19px 0px rgba(50, 50, 50, 0.88);
+}
+.menu-btn:active{
+	transition: 1s;
+	box-shadow: none;
+}
+
+p{
+	width: 20%;
+}
+
+button{
+	outline: none;
+	border: none;
+}
